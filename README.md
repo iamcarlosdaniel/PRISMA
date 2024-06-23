@@ -92,6 +92,12 @@ On the other hand, the frontend is developed using ReactJs with Vitejs. This is 
 
 > It's important to mention that if you only need to utilize the functionality provided by the REST API, you can do without the frontend. This means you can interact with the API directly without needing to use the user interface provided by the frontend.
 
+## Documentation
+
+Consult the documentation and API descriptions for proper usage.
+
+All documentation is available in the [docs](docs/index.md) folder of the repository.
+
 ## License
 
 This project is under the MIT License - Refer to the file [LICENSE.md](LICENSE.md) for more details.
